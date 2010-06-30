@@ -2,6 +2,7 @@
 <resources>
 	<string name="app_name">CMParts</string>
 	<string name="device_settings_title">Device Settings</string>
+	<string name="additional_settings_title">Additional Settings</string>
 
 	<string name="trackball_settings_title">Trackball Settings</string>
 	<string name="trackball_settings_summary">Trackball Wake and Unlock</string>
@@ -26,4 +27,7 @@
 
 	<!-- Launcher -->
 	<string name="launcher_settings_title">ADWLauncher</string>
+	
+	<!-- Dev Tools -->
+	<string name="dev_tools_title">Dev Tools</string>
 </resources>

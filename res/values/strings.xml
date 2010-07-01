@@ -2,6 +2,7 @@
 <resources>
 	<string name="app_name">CMParts</string>
 	<string name="device_settings_title">Device Settings</string>
+	<string name="additional_settings_title">Additional Settings</string>
 
 	<string name="trackball_settings_title">Trackball Settings</string>
 	<string name="trackball_settings_summary">Trackball Wake and Unlock</string>
@@ -20,4 +21,13 @@
 	<!-- br0tips -->
 	<string name="pref_brotips_title">Enable Br0tips</string>
 	<string name="pref_brotips_summary">Change the Home screen tips</string>
+
+	<!-- Spare Parts -->
+	<string name="spare_settings_title">Spare Parts</string>
+
+	<!-- Launcher -->
+	<string name="launcher_settings_title">ADWLauncher</string>
+	
+	<!-- Dev Tools -->
+	<string name="dev_tools_title">Dev Tools</string>
 </resources>

@@ -1,4 +1,0 @@
-CMParts
-=======
-
-Note - This repository has been moved to http://github.com/CyanogenMod/android_packages_apps_CMParts

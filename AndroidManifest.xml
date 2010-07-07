@@ -14,11 +14,6 @@
         		<action android:name="android.intent.action.MAIN"/>
         	</intent-filter>
         </activity>
-        <activity android:name=".activities.UIActivity">
-         <intent-filter>
-            <action android:name="android.intent.action.MAIN"/>
-         </intent-filter>
-        </activity>
  	<activity android:name=".activities.BrotipsActivity">
         	<intent-filter>
         		<action android:name="android.intent.action.MAIN"/>
